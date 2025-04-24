@@ -1,6 +1,6 @@
 # =====================================================================================
 # Title        : JoshXSS - Simple XSS Payload Reflection Scanner
-# Author       : Josh (aka HACKERMIND X)
+# Author       : Josh 
 # Created on   : [ April 25, 2025]
 # Description  : A Python tool to scan URLs for potential reflected XSS vulnerabilities
 # GitHub       : https://github.com/Josh-INetSecurity-IN/josh-xss
